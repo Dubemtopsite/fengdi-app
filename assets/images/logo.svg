@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="fengdi_logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 54" width="375" height="54">
+  <defs>
+    <style>
+      .fd-mark { fill: #ffffff; fill-rule: evenodd; }
+      .fd-divider { fill: rgba(255, 255, 255, 0.35); }
+      .fd-zh { font-family: "Noto Sans TC", "Noto Sans CJK TC", "PingFang HK", "Microsoft JhengHei", sans-serif; font-size: 15px; font-weight: 700; fill: #ffffff; letter-spacing: 5px; }
+      .fd-en { font-family: "Inter", "Helvetica Neue", Arial, sans-serif; font-size: 12.5px; font-weight: 700; fill: #ffffff; letter-spacing: 2px; }
+      .fd-sub { font-family: "Inter", "Helvetica Neue", Arial, sans-serif; font-size: 9px; font-weight: 500; fill: rgba(255, 255, 255, 0.75); letter-spacing: 3.5px; }
+    </style>
+  </defs>
+  
+  <!-- FD Monogram Emblem -->
+  <g transform="translate(6, 2)">
+    <path class="fd-mark" d="M 12.5 0 L 39.5 0 C 41 0, 42 0.8, 41.7 2 L 39.5 11 L 23.75 11 L 21.5 20 L 37 20 C 38.5 20, 39.3 20.8, 39 22 L 37 30 L 19 30 L 14 50 L 0 50 Z" />
+    <path class="fd-mark" d="M 44.5 0 L 61 0 C 76.5 0, 85 9.5, 81.2 25 C 77.5 40.5, 66.5 50, 51 50 L 27.5 50 L 30.2 39 L 48.5 39 C 57.5 39, 64 33, 66.2 24.5 C 68.5 16, 63.5 11, 55 11 L 41.7 11 Z" />
+  </g>
+  
+  <!-- Divider -->
+  <rect x="98" y="7" width="1.5" height="40" class="fd-divider" />
+  
+  <!-- Typography -->
+  <text x="114" y="18" class="fd-zh">豐地投資</text>
+  <text x="114" y="34" class="fd-en">FENGDI INVESTMENT</text>
+  <text x="114" y="47" class="fd-sub">HK LIMITED</text>
+</svg>
